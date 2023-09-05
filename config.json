@@ -1,0 +1,4 @@
+{
+    "bot_token": "<your telegram api token>",
+    "database_token": "<your mongodb connection string>"
+}

@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "mongoose": "^5.13.5",
+    "nodemailer": "^6.9.4",
+    "telegraf": "^4.13.1"
+  }
+}
